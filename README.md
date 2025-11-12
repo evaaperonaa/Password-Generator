@@ -44,7 +44,6 @@ python3 password_generator.py
 
 5. **Your secure password will be displayed**
 
-<img width="295" height="43" alt="Captura de pantalla 2025-11-12 a las 23 46 47" src="https://github.com/user-attachments/assets/35f48925-a68d-4adb-8223-f0186c11491d" />
 
 ---
 ⚙️ Requirements
